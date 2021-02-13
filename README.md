@@ -26,6 +26,7 @@ This repository is only POC implementation of the idea discussed above. Needs mo
 | Base Model Architecture | Resnet50 from [ResNet](https://arxiv.org/abs/1512.03385) family, implementation from [PyTorch](https://pytorch.org/)|
 | Learning Rate Finder | [Learning rate finder](https://arxiv.org/abs/1506.01186) implementation from [FastAI](https://www.fast.ai/) |
 | Learning rate and Momentum scheduler| [One cycle policy](https://arxiv.org/abs/1803.09820) implementation from [FastAI](https://www.fast.ai/) to achieve superconvergence |
+| Loss function| [Focal Loss](https://arxiv.org/pdf/1708.02002.pdf) due to imbalanced dataset |
 | Dataset | Dataset [Fruits 360 dataset](https://www.kaggle.com/moltean/fruits) from [Mihai Oltean](https://www.kaggle.com/moltean) |
 
   
@@ -35,10 +36,12 @@ This repository is only POC implementation of the idea discussed above. Needs mo
 
 | Model | Metrics(Accuracy) | Epochs |
 | ------ | ------ | ------ |
-| Resnet50 | 96.14% | 12 |
+| Resnet50 | 99.6121 % | 12 |
 
   
-  
+#### Focal Loss
+
+![Alt text](https://github.com/gurucharanmk/Fruits-360_Image_Classification/blob/main/images/loss.png )
 
 #### Inference
 
