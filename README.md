@@ -43,4 +43,4 @@ Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pin
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/gurucharanmk/Fruits-360_Image_Classification/blob/main/LICENSE)opening the **file explorer** on the left corner of the navigation bar.
+This project is licensed under the [MIT License](https://github.com/gurucharanmk/Fruits-360_Image_Classification/blob/main/LICENSE)
