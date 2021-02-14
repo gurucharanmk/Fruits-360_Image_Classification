@@ -11,14 +11,6 @@ Apples (different varieties: Crimson Snow, Golden, Golden-Red, Granny Smith, Pin
 ~~~~
   
 
-### Disclaimer
-
-This repository is only POC implementation of the idea discussed above. Needs more solid clinical trials to back this idea and approvals from regulatory bodies to be used in production.
-
-  
-  
-  
-
 ### Implementation details
 
 | Feature | Brief Explanation |
